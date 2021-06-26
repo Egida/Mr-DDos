@@ -61,8 +61,9 @@ def buildblock(size):
 
 def usage():
 	print '---------------------------------------------------'
-	print 'Pra usar a ferramenta da erva faiz esse comanduh aq: python attacker.py <url>'
-	print 'Ae irmao depois de fumar uma erva nois derruba site e usa isso aqui entao e priv8 foi o lokao @Neptune que criou Geets: CGH Cyber Gov Hackers -- Neptune@Attacker -- LulzSec -- Lizard Squad --'
+	print '\033[93m How to Use This Tool : \033[92m python2 attack.py <url>'
+	print ' \033[91m Example - \033[92m python2 attack.py https://www.onlinehacking.oi'
+	print '\033[96m Ae brother after hacking a weed we crash site : \033[97m CGH Cyber Gov Hackers -\033[91m- LulzSec -- Lizard Squad -- Online hacking'
 	print "\a"
 print \
 """
@@ -85,8 +86,7 @@ D:::::::::::::::DD D:::::::::::::::DD   o:::::::::::::::os::::::::::::::s
 D::::::::::::DDD   D::::::::::::DDD      oo:::::::::::oo  s:::::::::::ss  
 DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss    
                                                                           
-''')                                                                        
-print('''\033[93m  
+\033[93m  
    ____        _ _              _    _            _    _             
   / __ \      | (_)            | |  | |          | |  (_)            
  | |  | |_ __ | |_ _ __   ___  | |__| | __ _  ___| | ___ _ __   __ _ 
@@ -97,7 +97,7 @@ print('''\033[93m
                                                                |___/                                                            
                     Online Hacking 
                                                               
-               print (''' \033[95m
+              \033[95m
       +--------------------------------------+
       | This Tool  Only Educational Purpose  |
       +--------------------------------------+
