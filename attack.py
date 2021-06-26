@@ -60,12 +60,7 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print '---------------------------------------------------'
-	print 'Pra usar a ferramenta da erva faiz esse comanduh aq: python attacker.py <url>'
-	print 'Ae irmao depois de fumar uma erva nois derruba site e usa isso aqui entao e priv8 foi o lokao @Neptune que criou Geets: CGH Cyber Gov Hackers -- Neptune@Attacker -- LulzSec -- Lizard Squad --'
-	print "\a"
-echo ""
-echo ""
+
 echo -e " \e[92m   ╔═══════════════════════════════════════════════════════════╗ "
 echo -e " \e[91m   ║ \e[93m ███    ███  █████  ███████ ██   ██ ██ ███    ██  ██████  \e[91m║ "
 echo -e " \e[91m   ║ \e[93m ████  ████ ██   ██ ██      ██  ██  ██ ████   ██ ██       \e[91m║"
