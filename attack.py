@@ -108,7 +108,7 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
      +--------------------------------------+  
 """
 print ''
-   print '\033[96m  Ae brother after hacking a weed we crash site '
+print '\033[96m    Ae brother after hacking a weed we crash site '
 print('''\033[92m ---------------------------------------------------''')
 
 	
