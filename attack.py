@@ -67,14 +67,32 @@ def usage():
 print \
 """
 print('''\033[92m
-████████▄  ████████▄   ▄██████▄     ▄████████ 
-███   ▀███ ███   ▀███ ███    ███   ███    ███ 
-███    ███ ███    ███ ███    ███   ███    █▀  
-███    ███ ███    ███ ███    ███   ███        
-███    ███ ███    ███ ███    ███ ▀███████████ 
-███    ███ ███    ███ ███    ███          ███ 
-███   ▄███ ███   ▄███ ███    ███    ▄█    ███ 
-████████▀  ████████▀   ▀██████▀   ▄████████▀  
+
+                                                                          
+                                                                          
+DDDDDDDDDDDDD      DDDDDDDDDDDDD                                          
+D::::::::::::DDD   D::::::::::::DDD                                       
+D:::::::::::::::DD D:::::::::::::::DD                                     
+DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D                                    
+  D:::::D    D:::::D D:::::D    D:::::D    ooooooooooo       ssssssssss   
+  D:::::D     D:::::DD:::::D     D:::::D oo:::::::::::oo   ss::::::::::s  
+  D:::::D     D:::::DD:::::D     D:::::Do:::::::::::::::oss:::::::::::::s 
+  D:::::D     D:::::DD:::::D     D:::::Do:::::ooooo:::::os::::::ssss:::::s
+  D:::::D     D:::::DD:::::D     D:::::Do::::o     o::::o s:::::s  ssssss 
+  D:::::D     D:::::DD:::::D     D:::::Do::::o     o::::o   s::::::s      
+  D:::::D     D:::::DD:::::D     D:::::Do::::o     o::::o      s::::::s   
+  D:::::D    D:::::D D:::::D    D:::::D o::::o     o::::ossssss   s:::::s 
+DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D  o:::::ooooo:::::os:::::ssss::::::s
+D:::::::::::::::DD D:::::::::::::::DD   o:::::::::::::::os::::::::::::::s 
+D::::::::::::DDD   D::::::::::::DDD      oo:::::::::::oo  s:::::::::::ss  
+DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss    
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                        
                                                  
                                             OnlineHacking (SUMAN) 
 ''')
