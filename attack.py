@@ -67,9 +67,7 @@ def usage():
 print \
 """
 print('''\033[92m
-
-                                                                          
-                                                                          
+                                                                       
 DDDDDDDDDDDDD      DDDDDDDDDDDDD                                          
 D::::::::::::DDD   D::::::::::::DDD                                       
 D:::::::::::::::DD D:::::::::::::::DD                                     
@@ -87,9 +85,8 @@ D:::::::::::::::DD D:::::::::::::::DD   o:::::::::::::::os::::::::::::::s
 D::::::::::::DDD   D::::::::::::DDD      oo:::::::::::oo  s:::::::::::ss  
 DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss    
                                                                           
-                                                                          
-                                                                          
-  
+''')                                                                        
+print('''\033[93m  
    ____        _ _              _    _            _    _             
   / __ \      | (_)            | |  | |          | |  (_)            
  | |  | |_ __ | |_ _ __   ___  | |__| | __ _  ___| | ___ _ __   __ _ 
@@ -98,19 +95,24 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
   \____/|_| |_|_|_|_| |_|\___| |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, |
                                                                 __/ |
                                                                |___/ 
-                                                                        
-                                                                          
-                                                                          
-                                                                        
-                                                 
-                                            OnlineHacking (SUMAN) 
-''')
-                                        
-                                        
-                BY: @SilvisDDos aka Neptune@Attacker
+                                                                                                                    
+                                            Online Hacking 
+                                                              
+               print (''' \033[95m
++--------------------------------------+
+| This Tool Install All Basic Packages |
++--------------------------------------+
+| Coded By  Suman Mondal  |   Mr DDos  |
++--------------------------------------+
+| Create - Online Hacking | Version 2.0|
++--------------------------------------+''')
 """
 print '---------------------------------------------------'
-
+slowprint(''' \033[93m
+Create By Online Hacking
+Coded By Suman
+Help by Russian Hackers
+''')
 	
 #http request
 def httpcall(url):
