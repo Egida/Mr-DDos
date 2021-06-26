@@ -99,14 +99,14 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
  | |__| | | | | | | | | |  __/ | |  | | (_| | (__|   <| | | | | (_| |
   \____/|_| |_|_|_|_| |_|\___| |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, |
                                                                 __/ |
-                                                               |___/                                                            
+                                            Version 2.0         |___/                                                            
            \033[36mWebsite : \033[0m\033[92mwww.onlinehacking.xyz 
-            \033[97mTelegram : \033[0m\033[34mhttps://telegram.dog/OnlineHacKing                                              
+           \033[97mTelegram : \033[0m\033[34mhttps://telegram.dog/OnlineHacKing                                              
                \033[95m
      +--------------------------------------+  
      | This Tool  Only Educational Purpose  |  
      +--------------------------------------+  
-     | Coded - Suman Mondal / Russian Hacker|  
+     | Coded - Online Hacking     [Suman]   |  
      +--------------------------------------+  
      | Create - Online Hacking | Version 2.0|  
      +--------------------------------------+
