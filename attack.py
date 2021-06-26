@@ -94,25 +94,20 @@ print('''\033[93m
  | |__| | | | | | | | | |  __/ | |  | | (_| | (__|   <| | | | | (_| |
   \____/|_| |_|_|_|_| |_|\___| |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, |
                                                                 __/ |
-                                                               |___/ 
-                                                                                                                    
-                                            Online Hacking 
+                                                               |___/                                                            
+                    Online Hacking 
                                                               
                print (''' \033[95m
-+--------------------------------------+
-| This Tool Install All Basic Packages |
-+--------------------------------------+
-| Coded By  Suman Mondal  |   Mr DDos  |
-+--------------------------------------+
-| Create - Online Hacking | Version 2.0|
-+--------------------------------------+''')
+      +--------------------------------------+
+      | This Tool  Only Educational Purpose  |
+      +--------------------------------------+
+      | Coded - Suman Mondal / Russian Hacker|
+      +--------------------------------------+
+      | Create - Online Hacking | Version 2.0|
+      +--------------------------------------+
 """
-print '---------------------------------------------------'
-slowprint(''' \033[93m
-Create By Online Hacking
-Coded By Suman
-Help by Russian Hackers
-''')
+print('''\033[92m '---------------------------------------------------''')
+
 	
 #http request
 def httpcall(url):
