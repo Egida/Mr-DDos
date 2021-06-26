@@ -100,16 +100,16 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
   \____/|_| |_|_|_|_| |_|\___| |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, |
                                                                 __/ |
                                                                |___/                                                            
-                    Online Hacking 
-                                                              
-             
-  \033[95m+--------------------------------------+  
-  \033[95m| This Tool  Only Educational Purpose  |  \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz 
-  \033[95m+--------------------------------------+  
-  \033[95m| Coded - Suman Mondal / Russian Hacker|  \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing
-  \033[95m+--------------------------------------+  
-  \033[95m| Create - Online Hacking | Version 2.0|  \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing
-  \033[95m+--------------------------------------+
+           \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz 
+            \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing                                              
+               \033[95m
+     +--------------------------------------+  
+     | This Tool  Only Educational Purpose  |  
+     +--------------------------------------+  
+     | Coded - Suman Mondal / Russian Hacker|  
+     +--------------------------------------+  
+     | Create - Online Hacking | Version 2.0|  
+     +--------------------------------------+
 """
 print('''\033[92m ---------------------------------------------------''')
 
