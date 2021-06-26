@@ -100,8 +100,8 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
   \____/|_| |_|_|_|_| |_|\___| |_|  |_|\__,_|\___|_|\_\_|_| |_|\__, |
                                                                 __/ |
                                                                |___/                                                            
-           \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz 
-            \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing                                              
+           \033[36mWebsite : \033[0m\033[92mwww.onlinehacking.xyz 
+            \033[97mTelegram : \033[0m\033[34mhttps://telegram.dog/OnlineHacKing                                              
                \033[95m
      +--------------------------------------+  
      | This Tool  Only Educational Purpose  |  
