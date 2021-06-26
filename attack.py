@@ -69,6 +69,7 @@ def usage():
         print ''
 	print '\033[97m CGH Cyber Gov Hackers -\033[91m LulzSec / Lizard Squad / Online hacking'
 	print "\a"
+	print('''\033[92m ---------------------------------------------------''')
 print \
 """
 print('''\033[92m
@@ -101,14 +102,14 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
                                                                |___/                                                            
                     Online Hacking 
                                                               
-              \033[95m
-      +--------------------------------------+
-      | This Tool  Only Educational Purpose  |
-      +--------------------------------------+
-      | Coded - Suman Mondal / Russian Hacker|
-      +--------------------------------------+
-      | Create - Online Hacking | Version 2.0|
-      +--------------------------------------+
+             
+  \033[95m+--------------------------------------+  
+  \033[95m| This Tool  Only Educational Purpose  |  \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz 
+  \033[95m+--------------------------------------+  
+  \033[95m| Coded - Suman Mondal / Russian Hacker|  \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing
+  \033[95m+--------------------------------------+  
+  \033[95m| Create - Online Hacking | Version 2.0|  \e[97mTelegram : \e[0m\e[34mhttps://telegram.dog/OnlineHacKing
+  \033[95m+--------------------------------------+
 """
 print('''\033[92m ---------------------------------------------------''')
 
