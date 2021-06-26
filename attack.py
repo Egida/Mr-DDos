@@ -102,9 +102,9 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
            \033[97mTelegram : \033[0m\033[34mhttps://telegram.dog/OnlineHacKing                                              
                \033[95m
      +--------------------------------------+  
-     | This Tool  Only Educational Purpose  |  
+     | \033[97mThis Tool  Only Educational Purpose  |  
      +--------------------------------------+  
-     | Coded - Online Hacking     [Suman]   |  
+     | \033[92mCoded - \033[93mOnline Hacking     [Suman]   |  
      +--------------------------------------+  
 """
 print '\033[96m    Ae brother after hacking a weed we crash site '
