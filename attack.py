@@ -60,10 +60,14 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print '---------------------------------------------------'
-	print '\033[93m How to Use This Tool : \033[92m python2 attack.py <url>'
+	print ''
+	print '\033[93m  How to Use This Tool : \033[92m python2 attack.py <url>'
+	print ''
 	print ' \033[91m Example - \033[92m python2 attack.py https://www.onlinehacking.oi'
-	print '\033[96m Ae brother after hacking a weed we crash site : \033[97m CGH Cyber Gov Hackers -\033[91m- LulzSec -- Lizard Squad -- Online hacking'
+	print ''
+	print '\033[96m  Ae brother after hacking a weed we crash site '
+        print ''
+	print '\033[97m CGH Cyber Gov Hackers -\033[91m LulzSec / Lizard Squad / Online hacking'
 	print "\a"
 print \
 """
@@ -106,7 +110,7 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
       | Create - Online Hacking | Version 2.0|
       +--------------------------------------+
 """
-print('''\033[92m '---------------------------------------------------''')
+print('''\033[92m ---------------------------------------------------''')
 
 	
 #http request
