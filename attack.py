@@ -60,15 +60,25 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
+	print '---------------------------------------------------'
+	print 'Pra usar a ferramenta da erva faiz esse comanduh aq: python attacker.py <url>'
+	print 'Ae irmao depois de fumar uma erva nois derruba site e usa isso aqui entao e priv8 foi o lokao @Neptune que criou Geets: CGH Cyber Gov Hackers -- Neptune@Attacker -- LulzSec -- Lizard Squad --'
+	print "\a"
+print \
+"""
 
-echo -e " \e[92m   ╔═══════════════════════════════════════════════════════════╗ "
-echo -e " \e[91m   ║ \e[93m ███    ███  █████  ███████ ██   ██ ██ ███    ██  ██████  \e[91m║ "
-echo -e " \e[91m   ║ \e[93m ████  ████ ██   ██ ██      ██  ██  ██ ████   ██ ██       \e[91m║"
-echo -e " \e[91m   ║ \e[93m ██ ████ ██ ███████ ███████ █████   ██ ██ ██  ██ ██   ███ \e[91m║ "
-echo -e " \e[91m   ║ \e[93m ██  ██  ██ ██   ██      ██ ██  ██  ██ ██  ██ ██ ██    ██ \e[91m║ "
-echo -e " \e[91m   ║ \e[93m ██      ██ ██   ██ ███████ ██   ██ ██ ██   ████  ██████  \e[91m║ \e[33mSUMAN"
-echo -e " \e[96m   ╚═══════════════════════════════════════════════════════════╝  \e[33mV2.1 "
-echo ""
+  __  __        _____  _____            
+ |  \/  |      |  __ \|  __ \           
+ | \  / |_ __  | |  | | |  | | ___  ___ 
+ | |\/| | '__| | |  | | |  | |/ _ \/ __|
+ | |  | | |    | |__| | |__| | (_) \__ \
+ |_|  |_|_|    |_____/|_____/ \___/|___/
+                                        
+                                        
+                BY: @SilvisDDos aka Neptune@Attacker
+"""
+print '---------------------------------------------------'
+
 	
 #http request
 def httpcall(url):
@@ -92,7 +102,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
- 			print 'Connected #/ DDos #/ Oniline-Hacking@DDos-Attacker'
+ 			print 'Connected #/ DDos #/ Neptune@Attacker'
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
@@ -134,7 +144,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "Ak 47 attack was been sended This tool is created by : Online Hacking (Russian Hackers)"
+		print "Ak 47 attack was been sended This tool is created by : Russian Hackers"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
