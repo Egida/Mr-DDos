@@ -108,8 +108,8 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD           ooooooooooo     sssssssssss
      +--------------------------------------+  
 """
 print '\033[96m    Ae brother after hacking a weed we crash site '
-print ''
-print '\033[93m    Stop DDos Attack : 
+
+print '\033[93m    Stop DDos Attack : CTRL + Z '
 print ''
 print('''\033[92m ---------------------------------------------------''')
 
