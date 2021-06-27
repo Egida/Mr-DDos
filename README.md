@@ -75,20 +75,13 @@ pkg upgrade -y
 
 pkg install git 
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/OnlineHacKing/Mr-DDos.git
 
-cd FreeFire-Phishing
+cd Mr-DDos
 
 chmod +x *
 
-./Android-Setup
-```
-There are 2 Tool Script for Android (Use Any Tool)
-```
-onlinehacking-freefire
-```
-```
-./OnlineHacking-Phishing.sh
+python2 attack.py
 ```
 
 
@@ -100,15 +93,14 @@ sudo apt upgrade -y
 
 sudo apt install git 
 
-git clone https://github.com/OnlineHacKing/FreeFire-Phishing.git
+git clone https://github.com/OnlineHacKing/Mr-DDos.git
 
-cd FreeFire-Phishing
+cd Mr-DDos
 
 chmod +x *
 
-./Linux-Setup
+python2 attack.py
 
-./OnlineHacking-Phishing.sh
 ```
 
 
