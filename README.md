@@ -24,6 +24,17 @@
 
 .
 
+### CREDIT :
+
+* LulzSec
+
+* Lizard Squad
+
+* Online Hacking 
+
+* Russian Hackers
+
+
 ### AVAILABLE ON :
 
 * Termux App
@@ -47,13 +58,6 @@
 * Parrot OS
  
 * Ubuntu
-
-
-### REQUIREMENTS :
-
-* internet
-
-* php
 
 
 ### FEATURES :
