@@ -112,13 +112,12 @@ python attack.py
 
 <br>
 <p align="center">
-<img width="45%" src="#"/>
-<img width="41%" src="#"/>
+<img width="51%" src="https://github.com/OnlineHacKing/Mr-DDos/raw/main/img/Screenshot_20210627-091524699-min.jpg"/>
 </p>
 <br>
 <p align="center">
-<img width="40%" src="#"/>
-<img width="41%" src="#"/>
+<img width="41%" src="https://github.com/OnlineHacKing/Mr-DDos/raw/main/img/Screenshot_20210627-091628275-min.jpg"/>
+<img width="41%" src="https://github.com/OnlineHacKing/Mr-DDos/raw/main/img/Screenshot_20210627-091636407-min.jpg"/>
 </p>
 
 
