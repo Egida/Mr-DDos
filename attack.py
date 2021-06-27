@@ -164,7 +164,7 @@ class MonitorThread(threading.Thread):
 		previous=request_counter
 		while flag==0:
 			if (previous+100<request_counter) & (previous<>request_counter):
-				print "%d Backs enrrolados" % (request_counter)
+				print "%d Backs enrrolados - Attack not Start Loading...." % (request_counter)
 				previous=request_counter
 		if flag==2:
 			print "\n -Neptune Hits are secced"
