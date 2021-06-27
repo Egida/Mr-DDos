@@ -49,19 +49,10 @@
 
 * Ubuntu
 
-* Arch Linux
-
-* MAC
 
 ### TESTED ON :
 
 * Termux App
-
-* Kali Linux
- 
-* Parrot OS
- 
-* Ubuntu
 
 
 ### FEATURES :
@@ -90,6 +81,8 @@ cd Mr-DDos
 chmod +x *
 
 python2 attack.py
+
+python attack.py
 ```
 
 
@@ -108,6 +101,8 @@ cd Mr-DDos
 chmod +x *
 
 python2 attack.py
+
+python attack.py
 
 ```
 
