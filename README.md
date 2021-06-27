@@ -14,11 +14,15 @@
 </p>
 
 <p align="center">
+  
 
-![unnamed (2)](https://github.com/OnlineHacKing/Mr-DDos/raw/main/img/ddos-attack-Onlnehacking.png)
 
 </p>
 
+<br>
+<p align="center">
+<img width="50%" src="https://github.com/OnlineHacKing/Mr-DDos/raw/main/img/ddos-attack-Onlnehacking.png"/>
+</p>
 
 ## ABOUT TOOL :
 
