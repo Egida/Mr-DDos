@@ -15,7 +15,7 @@
 
 <p align="center">
 
-![unnamed (2)](https://github.com/OnlineHacKing/Mr-DDos/raw/main/img/ddos-attack-feature-Onlnehacking.png)
+![unnamed (2)](https://github.com/OnlineHacKing/Mr-DDos/raw/main/img/ddos-attack-Onlnehacking.png)
 
 </p>
 
